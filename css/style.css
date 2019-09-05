@@ -11,9 +11,12 @@
     color: orangered;
     background-color: navajowhite;
   }
-.body {
+body {
   background-color: #f75;
   color: #333;
   font-size: 14px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
+
